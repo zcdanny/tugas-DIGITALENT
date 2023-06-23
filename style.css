@@ -1,0 +1,48 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .logo-title-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+  }
+  .vertical-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .navbar {
+    background-color: #8B4513;
+  }
+  
+  .author-image {
+    width: 200px;
+    height: 200px;
+  }
+  
+  .author-bio {
+    font-size: 16px;
+  }
+  
+  .footer h4 {
+    color: #fff;
+  }
+  
+  .footer ul li {
+    color: #fff;
+  }
+  
+  .footer p {
+    font-size: 14px;
+    color: #fff;
+  }
+  
